@@ -71,7 +71,7 @@
 <body>
     <div class="container">
         <div class="header-action">
-            <h2>4GL LIST LEVEL2</h2>
+            <h2>4GL LIST LEVEL3</h2>
             <a href="write.jsp" class="btn">글쓰기</a>
         </div>
         <table>
